@@ -1,0 +1,10 @@
+comandos git 
+para sincromizar uma pasta criada do rpositório git clone,<endereço em que está o repositório>
+após a sincronização 
+clicar em na pasta recém sincronizada 
+na barra de endereço apagar tudo e digitar cdm 
+após o prompt de comando estar aberto digitar 
+
+git init-> inicia o repositório.
+git add -> adiciona todos os arquivs criados
+gitcommit -m "comentario" -> adiciona um comentário para ser inserido no respositório
